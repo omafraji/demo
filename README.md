@@ -6,4 +6,4 @@ This is a simple readme file
 
 Doing somthing that should be backed out
 
-Some changes, some new changes
+This is will error
